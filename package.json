@@ -1,0 +1,27 @@
+{
+  "name": "gulp-for-noobs",
+  "version": "1.0.0",
+  "description": "Не просто готовое решение, но пошаговое руководство по созданию своей собственной сборки для автомазации задач верстальщика. Объясним, как самому находить необходимые модули и работать с документацией. Простым понятным языком!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doctorrsm/gulp-for-noobs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doctorrsm/gulp-for-noobs/issues"
+  },
+  "homepage": "https://github.com/doctorrsm/gulp-for-noobs#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-nunjucks": "^5.1.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "sass": "^1.47.0"
+  }
+}

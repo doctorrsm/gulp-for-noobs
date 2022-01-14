@@ -16,4 +16,7 @@
 
 ### Полезные ссылки
 
+https://mozilla.github.io/nunjucks/templating.html#include
+https://siteok.org/blog/html/nunjucks
+
 ## 2. Создаем npm проект
